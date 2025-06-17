@@ -1,0 +1,53 @@
+Como Executar a Instalação:
+Pré-requisitos:
+
+XAMPP instalado no Windows Server 2022
+
+Git para Windows
+
+PHP 8+ habilitado no XAMPP
+
+MySQL e Apache em execução
+
+Processo:
+
+Execute o arquivo Instalador.bat como administrador
+
+Siga o assistente web no navegador:
+
+text
+http://localhost/LivroOcorrencias/install/
+Passos do assistente:
+
+Verificação de requisitos
+
+Configuração do banco de dados
+
+Criação da conta de administrador
+
+Configuração de e-mail e integrações
+
+Finalização e remoção do instalador
+
+Pós-instalação:
+
+Acesse o sistema: http://localhost/LivroOcorrencias
+
+Credenciais iniciais:
+
+Email: joao.junior@osvigilancia.com.br
+
+Senha: definida durante a instalação
+
+Recursos de Segurança Incluídos:
+Remoção automática do diretório /install após conclusão
+
+Geração automática de APP_KEY segura
+
+Configuração de permissões de arquivos restritivas
+
+Validação de inputs durante a instalação
+
+Bloqueio de acesso direto aos arquivos de configuração
+
+Este instalador fornece uma experiência semelhante ao WordPress, guiando você por todas as etapas de configuração diretamente no seu servidor Windows com XAMPP.
